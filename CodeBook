@@ -4,7 +4,16 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 Each row in the data is compromised of one of 30 individuals who participated in the study  labelled as:
 
-Subject 
+Subject # 1 - Subject #30
+
+Each subject is performing on of the following tasks:
+
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
 
 Each subject has the Mean and Standard Deviation of the following variables:
 
